@@ -83,15 +83,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://kenbabylon.github.io/page1/</guid>
-      <description>Header LaTeX The editor converts LaTeX equations in double-dollars $$: $$ax^2+bx+c=0$$. All equations are rendered as block equations. If you need inline ones, you can add the prefix \inline: $$\inline p={1\over q}$$. But it is a good practice to place big equations on separate lines:</description>
-    </item>
-    
-    <item>
-      <title>Page 1</title>
-      <link>https://kenbabylon.github.io/page1/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kenbabylon.github.io/page1/</guid>
       <description>This is my page 1</description>
     </item>
     
@@ -123,6 +114,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <guid>https://kenbabylon.github.io/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>program</title>
+      <link>https://kenbabylon.github.io/program/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://kenbabylon.github.io/program/</guid>
+      <description>Header LaTeX The editor converts LaTeX equations in double-dollars $$: $$ax^2+bx+c=0$$. All equations are rendered as block equations. If you need inline ones, you can add the prefix \inline: $$\inline p={1\over q}$$. But it is a good practice to place big equations on separate lines:</description>
     </item>
     
   </channel>
