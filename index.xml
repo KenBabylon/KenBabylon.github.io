@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vanilla</title>
-    <link>https://hungry-wiles-436bf5.netlify.com/</link>
+    <link>https://kenbabylon.github.io/</link>
     <description>Recent content on Vanilla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Dec 2018 20:46:49 -0600</lastBuildDate>
     
-	<atom:link href="https://hungry-wiles-436bf5.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kenbabylon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NASA Images</title>
-      <link>https://hungry-wiles-436bf5.netlify.com/nasa-images/</link>
+      <link>https://kenbabylon.github.io/nasa-images/</link>
       <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
       
-      <guid>https://hungry-wiles-436bf5.netlify.com/nasa-images/</guid>
+      <guid>https://kenbabylon.github.io/nasa-images/</guid>
       <description>Images from the NASA Image and Video Library.
 The SunThe Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Credits.
  The MoonThe Moon is an astronomical body that orbits planet Earth and is Earth&amp;rsquo;s only permanent natural satellite.</description>
@@ -24,39 +24,39 @@
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://hungry-wiles-436bf5.netlify.com/creating-a-new-theme/</link>
+      <link>https://kenbabylon.github.io/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-wiles-436bf5.netlify.com/creating-a-new-theme/</guid>
+      <guid>https://kenbabylon.github.io/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Page 1</title>
-      <link>https://hungry-wiles-436bf5.netlify.com/page1/</link>
+      <link>https://kenbabylon.github.io/page1/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-wiles-436bf5.netlify.com/page1/</guid>
+      <guid>https://kenbabylon.github.io/page1/</guid>
       <description>This is my page 1</description>
     </item>
     
     <item>
       <title>Page 2</title>
-      <link>https://hungry-wiles-436bf5.netlify.com/creating-a-new-theme/</link>
+      <link>https://kenbabylon.github.io/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-wiles-436bf5.netlify.com/creating-a-new-theme/</guid>
+      <guid>https://kenbabylon.github.io/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://hungry-wiles-436bf5.netlify.com/about/</link>
+      <link>https://kenbabylon.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-wiles-436bf5.netlify.com/about/</guid>
+      <guid>https://kenbabylon.github.io/about/</guid>
       <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
  https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
