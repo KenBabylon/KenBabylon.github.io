@@ -3,153 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kenbabylon.github.io/post/</loc>
+    <loc>https://hungry-wiles-436bf5.netlify.com/post/</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kenbabylon.github.io/tags/nasa/</loc>
+    <loc>https://hungry-wiles-436bf5.netlify.com/tags/nasa/</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kenbabylon.github.io/nasa-images/</loc>
+    <loc>https://hungry-wiles-436bf5.netlify.com/nasa-images/</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kenbabylon.github.io/tags/</loc>
+    <loc>https://hungry-wiles-436bf5.netlify.com/tags/</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kenbabylon.github.io/</loc>
+    <loc>https://hungry-wiles-436bf5.netlify.com/</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kenbabylon.github.io/tags/quotes/</loc>
-    <lastmod>2018-12-26T00:29:41-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/quotes-by-carl-jung/</loc>
-    <lastmod>2018-12-26T00:29:41-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/bootstrap/</loc>
-    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/css/</loc>
-    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/hugo/</loc>
-    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/style-a-markdown-table-with-bootstrap-classes-in-hugo/</loc>
-    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/fedora/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/snap/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/ubuntu/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/awk/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/command-line/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/creating-a-new-theme/</loc>
+    <loc>https://hungry-wiles-436bf5.netlify.com/tags/command-line/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kenbabylon.github.io/tags/theme/</loc>
+    <loc>https://hungry-wiles-436bf5.netlify.com/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kenbabylon.github.io/about/</loc>
+    <loc>https://hungry-wiles-436bf5.netlify.com/post/fisica/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hungry-wiles-436bf5.netlify.com/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hungry-wiles-436bf5.netlify.com/page1/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hungry-wiles-436bf5.netlify.com/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hungry-wiles-436bf5.netlify.com/tags/theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hungry-wiles-436bf5.netlify.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/fun/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/git/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kenbabylon.github.io/tags/migration/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
