@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fisica on Vanilla</title>
-    <link>https://kenbabylon.github.io/post/fisica/</link>
-    <description>Recent content in Fisica on Vanilla</description>
+    <title>Fisica cuantica on Vanilla</title>
+    <link>https://kenbabylon.github.io/post/fisica/fisica-cuantica/</link>
+    <description>Recent content in Fisica cuantica on Vanilla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kenbabylon.github.io/post/fisica/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kenbabylon.github.io/post/fisica/fisica-cuantica/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fisica cuantica</title>
-      <link>https://kenbabylon.github.io/post/fisica/fisica-cuantica/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kenbabylon.github.io/post/fisica/fisica-cuantica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Page 1</title>
+      <title>Fisica cuantica Page 1</title>
       <link>https://kenbabylon.github.io/page1/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
@@ -30,7 +21,7 @@
     </item>
     
     <item>
-      <title>Page 2</title>
+      <title>Fisica cuantica Page 2</title>
       <link>https://kenbabylon.github.io/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
